@@ -37,12 +37,12 @@ Each exercise is maintained as its own Maven project and contains the Java sourc
 * [x] 02 – Ada Lovelace
 * [x] 03 – Once Upon a Time
 * [x] 04 – Dinosaur
-* [ ] 05 – Message
-* [ ] 06 – Hi Ada Lovelace
-* [ ] 07 – Message Three Times
-* [ ] 08 – Greeting
-* [ ] 09 – Conversation
-* [ ] 10 – Story
+* [x] 05 – Message
+* [x] 06 – Hi Ada Lovelace
+* [x] 07 – Message Three Times
+* [x] 08 – Greeting
+* [x] 09 – Conversation
+* [x] 10 – Story
 * [ ] 11 – Various Variables
 * [ ] 12 – Integer Input
 * [ ] 13 – Double Input
