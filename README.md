@@ -43,11 +43,11 @@ Each exercise is maintained as its own Maven project and contains the Java sourc
 * [x] 08 – Greeting
 * [x] 09 – Conversation
 * [x] 10 – Story
-* [ ] 11 – Various Variables
-* [ ] 12 – Integer Input
-* [ ] 13 – Double Input
-* [ ] 14 – Boolean Input
-* [ ] 15 – Different Types of Input
+* [x] 11 – Various Variables
+* [x] 12 – Integer Input
+* [x] 13 – Double Input
+* [x] 14 – Boolean Input
+* [x] 15 – Different Types of Input
 * [ ] 16 – Seconds in a Day
 * [ ] 17 – Sum of Two Numbers
 * [ ] 18 – Sum of Three Numbers
