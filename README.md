@@ -48,7 +48,7 @@ Each exercise is maintained as its own Maven project and contains the Java sourc
 * [x] 13 – Double Input
 * [x] 14 – Boolean Input
 * [x] 15 – Different Types of Input
-* [ ] 16 – Seconds in a Day
+* [x] 16 – Seconds in a Day
 * [ ] 17 – Sum of Two Numbers
 * [ ] 18 – Sum of Three Numbers
 * [ ] 19 – Addition Formula
